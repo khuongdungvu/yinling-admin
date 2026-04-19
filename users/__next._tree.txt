@@ -1,0 +1,2 @@
+:HL["/yinling-admin/_next/static/chunks/0cy7d7xr4buc..css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"users","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DwK_kBx4lyE2b8pOX5dwo"}
